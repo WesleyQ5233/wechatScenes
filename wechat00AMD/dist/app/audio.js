@@ -1,0 +1,1 @@
+define(["jq"],function(){var e=document.querySelector("audio"),n=document.querySelector("#music");n.addEventListener("click",function(){e.paused?(e.play(),n.style.animationPlayState="running"):(e.pause(),n.style.animationPlayState="paused")})});

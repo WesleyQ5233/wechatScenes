@@ -1,0 +1,1 @@
+define(["ani","sp"],function(n,i){new Swiper(".swiper-container",{direction:"vertical",onInit:function(n){swiperAnimateCache(n),swiperAnimate(n)},onSlideChangeEnd:function(n){swiperAnimate(n)}})});
