@@ -1,7 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="402e6d14-9daa-48dd-9106-b1bd4ba235b5" name="Default" comment="" />
+    <list default="true" id="402e6d14-9daa-48dd-9106-b1bd4ba235b5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/icon_up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/job-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/music_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/music_note_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/music_note_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/share.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t1-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t1-text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t1-yuan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t10-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t10-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t10-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t10-4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t10-5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t10-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t2-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t2-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t2-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t3-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t3-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t3-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t4-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t4-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t4-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t5-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t5-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t5-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t6-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t6-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t6-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t7-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t7-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t7-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t8-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t8-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t8-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t9-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/img/t9-2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/learning.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/audio/qianyu.mp3" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/build/build.config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/app/audio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/app/preload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/app/scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/build.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/flexible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/flexible_css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/jquery-1.4.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/swiper.animate1.0.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/swiper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/lib/swiper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/dist/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/app/audio.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/app/preload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/app/scroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/flexible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/flexible_css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/jquery-1.4.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/require.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/swiper.animate1.0.2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/swiper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/lib/swiper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wechat00Webpack/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="wechatScenes.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,6 +91,40 @@
   <component name="FavoritesManager">
     <favorites_list name="wechatScenes" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechat00AMD/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="audio.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/app/audio.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -28,8 +134,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="474" />
-    <option name="y" value="292" />
+    <option name="x" value="389" />
+    <option name="y" value="263" />
     <option name="width" value="810" />
     <option name="height" value="494" />
   </component>
@@ -76,7 +182,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="wechat00AMD" />
+              <option name="myItemId" value="wechat00Webpack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechatScenes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechatScenes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wechat00Webpack" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -101,6 +225,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\my\Desktop\github\wechatScenes" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -158,10 +287,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="474" y="292" width="810" height="494" extended-state="0" />
-    <editor active="false" />
+    <frame x="389" y="263" width="810" height="494" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44170985" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -185,5 +314,31 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wechat00AMD/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/app/audio.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
