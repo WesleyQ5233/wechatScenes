@@ -1,1 +1,0 @@
-define(["fle","fle_css"],function(i,s){setTimeout(function(){$("#loading").css({display:"none"}).siblings().animate({opacity:"1"},1e3),$("#music").css({display:"block"}),$("#audio")[0].play()},2e3)});

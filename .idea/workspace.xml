@@ -2,6 +2,267 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="402e6d14-9daa-48dd-9106-b1bd4ba235b5" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/audio/qianyu.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/icon_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/job-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/music_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/music_note_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/music_note_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t1-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t1-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t1-yuan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t10-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t10-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t10-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t10-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t10-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t10-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t2-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t2-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t2-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t3-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t3-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t3-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t4-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t4-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t4-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t5-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t5-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t5-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t6-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t6-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t6-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t7-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t7-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t7-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t8-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t8-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t8-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t9-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/img/t9-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/assets/flexible.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/assets/makeGrid.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/combo.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/combo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/flexible.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/flexible.debug.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/flexible.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/flexible_css.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/flexible_css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/makegrid.debug.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/makegrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/build/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/grid.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/grid.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/src/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/lib-flexible/src/makegrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/CHANGELOG.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/css/swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/css/swiper.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/maps/swiper.jquery.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/maps/swiper.jquery.umd.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/maps/swiper.min.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/swiper.jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/swiper.jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/swiper.jquery.umd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/swiper.jquery.umd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/dist/js/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/package.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/a11y.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/dom-plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/dom.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/emitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/get-dom-lib.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/get-jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/hashnav.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/keyboard.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/lazy-load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/parallax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/scrollbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/swiper-intro-f7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/swiper-intro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/swiper-outro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/swiper-proto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/wrap-end-umd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/wrap-end.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/wrap-start-umd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/js/wrap-start.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/core.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/effects.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/navigation-f7.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/navigation.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/preloader-f7.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/preloader.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/scrollbar.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiper/src/less/swiper.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiperAnimation/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiperAnimation/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00/js/lib/swiperAnimation/swiper.animate1.0.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/audio/qianyu.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/build/build.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/app/audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/app/preload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/app/scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/build.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/flexible_css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/jquery-1.4.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/swiper.animate1.0.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/lib/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/dist/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/icon_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/job-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/music_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/music_note_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/music_note_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t1-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t1-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t1-yuan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t10-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t10-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t10-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t10-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t10-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t10-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t2-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t2-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t2-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t3-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t3-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t3-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t4-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t4-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t4-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t5-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t5-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t5-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t6-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t6-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t6-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t7-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t7-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t7-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t8-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t8-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t8-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t9-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/img/t9-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/app/audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/app/preload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/app/scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/flexible_css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/jquery-1.4.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/swiper.animate1.0.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/lib/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00AMD/learning.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/audio/qianyu.mp3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/build/build.config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/app/audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/app/preload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/app/scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/build.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/flexible_css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/jquery-1.4.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/swiper.animate1.0.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/lib/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/dist/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/icon_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/job-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/music_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/music_note_big.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/music_note_small.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/share.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t1-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t1-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t1-yuan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t10-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t10-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t10-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t10-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t10-5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t10-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t2-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t2-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t2-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t3-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t3-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t3-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t4-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t4-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t4-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t5-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t5-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t5-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t6-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t6-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t6-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t7-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t7-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t7-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t8-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t8-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t8-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t9-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/img/t9-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/app/audio.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/app/preload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/app/scroll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/animate.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/flexible.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/flexible_css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/jquery-1.4.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/swiper.animate1.0.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/swiper.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/lib/swiper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat00Webpack/learning.pdf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="wechatScenes.iws" />
@@ -23,31 +284,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wechat00AMD/index.html">
+      <file leaf-file-name="使用说明.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wt00-Gulp/使用说明.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="audio.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/app/audio.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5668934">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,8 +296,25 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wechat00Webpack/index.html" />
+        <option value="$PROJECT_DIR$/wechat00Webpack/webpack.config.js" />
+        <option value="$PROJECT_DIR$/wechat00Webpack/js/main.js" />
+        <option value="$PROJECT_DIR$/wechat00Webpack/js/app/audio.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
@@ -64,10 +322,10 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="695" />
-    <option name="y" value="156" />
-    <option name="width" value="974" />
-    <option name="height" value="601" />
+    <option name="x" value="-54" />
+    <option name="y" value="520" />
+    <option name="width" value="1073" />
+    <option name="height" value="694" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -95,6 +353,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,33 +372,19 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wechatScenes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wechatScenes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wechat00AMD" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="G:/app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../angular1.x" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\my\Desktop\github\wechatScenes\wechat00Webpack" />
       <recent name="C:\Users\my\Desktop\github\wechatScenes" />
     </key>
   </component>
@@ -194,6 +439,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="402e6d14-9daa-48dd-9106-b1bd4ba235b5" name="Default" comment="" />
@@ -204,15 +452,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="695" y="156" width="974" height="601" extended-state="0" />
+    <frame x="-54" y="520" width="1073" height="694" extended-state="1" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21688034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40483093" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32740214" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -225,6 +473,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -233,50 +489,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wechat00AMD/index.html">
+    <entry file="file://$PROJECT_DIR$/wt00-Gulp/使用说明.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/app/audio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat00AMD/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/app/audio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wechat00Webpack/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5668934">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>

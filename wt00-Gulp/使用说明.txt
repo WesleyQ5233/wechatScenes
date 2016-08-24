@@ -1,0 +1,2 @@
+1 dist 文件夹里是经过gulp压缩处理过的发布版本，具体开发代码课件src文件夹
+2 此demo详情， 可以看下我的博文： http://www.jianshu.com/p/44f986f8cb76 
