@@ -1,2 +1,9 @@
+
+
+平时工作学习闲暇时写的一些微信场景，
+不同的数字标识表示不同的微信场景。其中，名字中带
 -AMD  是用requireJs打包的
--Gulp 使用Gulp打包的 都可以简单看看 方便初学者进阶！
+-Gulp 使用Gulp打包的
+-Webpack 使用Webpack打包的
+
+都可以简单看看 方便初学者进阶！喜欢的话也可以关注一下我的博客奥！http://www.jianshu.com/users/299af48f70aa/latest_articles

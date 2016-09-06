@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>canvas-demo</title>
+</head>
+<body>
+	<div class="pie" style="height: 262.5px;">
+					<canvas id="tutorial" height="262" width="262"></canvas>								
+						<span class="txt txt1">10%</span>
+						<span class="txt txt2">30%</span>
+						<span class="txt txt3">58%</span>
+						<span class="txt txt4">2%</span>
+						<img class="txt txt11" src="http://js.soufunimg.com/common_m/m_activity/rentlottery/images/70.png" alt="">
+						<img class="txt txt22" src="http://js.soufunimg.com/common_m/m_activity/rentlottery/images/80.png" alt="">
+						<img class="txt txt33" src="http://js.soufunimg.com/common_m/m_activity/rentlottery/images/90.png" alt="">					
+						<img class="txt txt44" src="http://js.soufunimg.com/common_m/m_activity/rentlottery/images/other.png" alt="">
+					
+	</div>
+	<script>
+		var pHeight=0; 
+var pWidth=0; 
+(function(){
+
+var now = { row:1, col:1 }, last = { row:0, col:0};
+const towards = { up:1, right:2, down:3, left:4};
+var isAnimating = false;
+var wh=414/672; 
+var ws=window.innerWidth 
+var hs=window.innerHeight; 
+var yhh=ws/wh; 
+var s;
+s=hs/yhh;
+var ss=yhh/2*(1-s);
+var wy=s*ws;
+//$('.page').css('height',hs);
+$('.wrap').css('height',yhh); 
+//document.title=yhh+'|'+wy;
+$('.wrap').css('-webkit-transform','scale('+s+','+s+') translate(0px,-'+ss+'px)');
+pHeight=pWidth=$('.wrap').width()*7/10;
+$('.pie').css('height',pHeight);
+
+document.addEventListener('touchmove',function(event){
+	event.preventDefault(); },false);
+
+$(document).swipeUp(function(){
+	if (isAnimating) return;
+	last.row = now.row;
+	last.col = now.col;
+	if (last.row != 14) { now.row = last.row+1; now.col = 1; pageMove(towards.up);}	
+	if(last.row==3)
+	{setTimeout(function(){draw();},600)}
+})
+$(document).swipeDown(function(){
+	if (isAnimating) return;
+	last.row = now.row;
+	last.col = now.col;
+	if (last.row!=1) { now.row = last.row-1; now.col = 1; pageMove(towards.down);}
+	if(last.row==14)
+	{setTimeout(function(){draw();},600)}	
+})
+
+
+function pageMove(tw){
+	var lastPage = ".page-"+last.row+"-"+last.col,
+		nowPage = ".page-"+now.row+"-"+now.col;
+	
+	switch(tw) {
+		case towards.up:
+			outClass = 'pt-page-moveToTop';
+			inClass = 'pt-page-moveFromBottom';
+			break;		
+		case towards.down:
+			outClass = 'pt-page-moveToBottom';
+			inClass = 'pt-page-moveFromTop';
+			break;
+	}
+	isAnimating = true;
+	$(nowPage).removeClass("hide");
+	
+	$(lastPage).addClass(outClass);
+	$(nowPage).addClass(inClass);
+	
+		setTimeout(function(){
+		$(lastPage).removeClass('page-current');
+		$(lastPage).removeClass(outClass);
+		$(lastPage).addClass("hide");
+		//$(lastPage).find("img").addClass("hide");
+		
+		$(nowPage).addClass('page-current');
+		$(nowPage).removeClass(inClass);
+		//$(nowPage).find("img").removeClass("hide");
+		
+		isAnimating = false;
+	},600);
+}
+
+})();
+function draw(){	
+	var canvas = document.getElementById('tutorial');
+	canvas.height=pHeight;
+	canvas.width=pWidth;
+	var ctx = canvas.getContext('2d');	
+	var color = ["#4bc1be","#fb853f","#fc4770","#b286dd"];   
+    var data = [30,58,2,10];   
+    var radius = pWidth/2; 
+    var startPoint = 0;   
+    var endPoint=0;
+    var pi2=Math.PI*2;
+    var o={x:radius,y:radius} ,rectbox={ox:0,oy:0,wid:pWidth,hei:pHeight} ;
+	var i=0;	
+	var c=color[0];
+	var r=radius[0];
+	var timmer=null;	
+	var flag1=true;
+	var flag2=true;
+	var flag3=true;
+	
+	timmer=setInterval(function(){	
+		if(endPoint>pi2){
+			clearInterval(timmer);
+			return;
+		}
+		if(endPoint>pi2*98/100){			
+			if(flag3){
+				ctx.beginPath();
+			}					
+			drawfan(color[3]); 
+			flag3=false;			
+		}	
+		else if(endPoint>pi2*40/100){	
+			if(flag2){
+				ctx.beginPath();
+			}		
+			drawfan(color[2]); 
+			flag2=false;			
+		}	
+		else if(endPoint>pi2*1/10){	
+			if(flag1){
+				ctx.beginPath();
+			}		
+			drawfan(color[1]); 	
+			flag1=false;		
+		}			
+		else{
+			drawfan(color[0]);
+		}
+		//document.title=endPoint;
+		
+	},10);	
+		
+	function drawfan(color){		
+		endPoint=startPoint+pi2/120;		
+        ctx.fillStyle = color;            
+        ctx.moveTo(o.x,o.y); 
+        ctx.arc(o.x,o.y,radius,startPoint,endPoint,false);  
+        ctx.fill();    
+		startPoint=endPoint;
+	}
+}
+	</script>
+</body>
+</html>
